@@ -1,0 +1,12 @@
+{
+    "train": {
+        "url": "/train",
+        "method": "POST",
+        "description": "Treina o modelo com dados fornecidos."
+    },
+    "predict": {
+        "url": "/predict",
+        "method": "POST",
+        "description": "Faz previsões com base nos dados fornecidos."
+    }
+}
